@@ -1,3 +1,5 @@
+Note: testing all is good
+
 # Batch funding schema in the NZ ORCID Hub for ORCID Message Schema v2.0/v2.1
 
 Batch funding files to be passed through the Hub must be presented in either of the json or YAML formats, with the files following the convention for complex Hub objects, i.e.:
