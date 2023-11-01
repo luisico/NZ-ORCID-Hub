@@ -1,4 +1,4 @@
-Note: testing all is good
+Note: testing **ALL** is good
 
 # Batch funding schema in the NZ ORCID Hub for ORCID Message Schema v2.0/v2.1
 
